@@ -5,7 +5,7 @@ Now to the core part of this guide: What are the major stages of career hunting,
 
 ## Application
 
-The first step in the process is sending out your application to companies. This stage is very simple as you’re just going to be filling out a lot of online job application forms and sending in your resume to the companies/roles you are applying for. Prior to this stage, you just need to have a digital copy of your resume ready to send out as part of your application. If you do not have your resume built yet (or want tips to improve it), we will cover this in the section _Writing Your Resume **(FIX LINK)**_.
+The first step in the process is sending out your application to companies. This stage is very simple as you’re just going to be filling out a lot of online job application forms and sending in your resume to the companies/roles you are applying for. Prior to this stage, you just need to have a digital copy of your resume ready to send out as part of your application. If you do not have your resume built yet (or want tips to improve it), we will cover this in the section Writing Your Resume **(FIX LINK)**.
 
 Within this stage, you’ll become very familiar with the various online application platforms such as Workday, Taleo, Lever, Greenhouse, Icims, and some others. Application platforms will ask mostly the same questions for each application and can become very monotonous, but they are not difficult to answer (most applications take less than 3 minutes to fill out). You’ll most likely be asked to fill out information about your education, work experience, citizenship status, skills, and demographic information (race, gender, veteran status, and disability). This can be sped up by including this information in your resume which can be automatically parsed by the platform (more on this later) **(FIX LINK TO RESUME PARSING SUB SECTION)**. 
 
@@ -23,18 +23,24 @@ The most commonly used platform to take OA’s is known as _HackerRank_, which i
 _Image 1: HackerRank Coding Question Interface_
 
 
-***FIX IMAGE HERE***
+<p align="center">
+    <img src="https://i.imgur.com/lt9LXpN.png">
+</p>
 
 
 _Image 2: HackerRank Test Case Interface_
 
 
-***FIX IMAGE HERE***
+<p align="center">
+    <img src="https://i.imgur.com/JbmzYFp.png">
+</p>
 
 
 _Image 3: HackerRank Multiple Choice Question Interface_
 
-***FIX IMAGE HERE***
+<p align="center">
+    <img src="https://i.imgur.com/C6ntSrD.png">
+</p>
 
 
 
@@ -48,8 +54,9 @@ If you give a good impression of yourself to the recruiter and meet the applican
 
 _Image: HireVue On Demand Interview Video Response Question Interface_
 
-
-***FIX IMAGE HERE***
+<p align="center">
+    <img src="https://i.imgur.com/GxKLJTh.png">
+</p>
 
 
 
