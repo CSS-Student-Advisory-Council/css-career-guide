@@ -30,12 +30,18 @@ _Image 1: Heavy Graphics-Based Resume (Resume 1)_
 
 
 
-***FIX IMAGE HERE***
+<p align="center">
+    <img src="https://i.imgur.com/kszrDEF.png">
+</p>
+
 
 
 _Image 2: Simple Text-Based Resume (Resume 2)_
 
-***FIX IMAGE HERE***
+<p align="center">
+    <img src="https://i.imgur.com/hjk4Cyi.png">
+</p>
+
 
 
 As you can see, these two resumes are written with the same content of the same person, but Resume 1 uses a large amount of graphics and custom formatting to display the information, while Resume 2 uses a more simple layout with most of the resume being in text form. While Resume 1 may look more appealing and interesting, it is a nightmare for automated resume parsers and may cause lots of information to be missed. In most cases, you will want to opt for resume layouts like Resume 2 to ensure your information is parsed correctly and fully. 
