@@ -32,10 +32,9 @@ Within this appendix section, you will find a list of career resources to help y
 
 ### Resume Parsers
 
-
-
+* [Jafer's Lever Resume Parser](https://itsjafer.com/#/parser)
 * [Affinda Resume Parser](https://affinda.com/resume-parser/)
-
+* [Lever Resume Parser (Chrome Extension)](https://chrome.google.com/webstore/detail/lever-resume-parser/cjaebcdmenhepnpldppdeefjgbbpjjbc)
 
 ## Internship / Job Finding
 

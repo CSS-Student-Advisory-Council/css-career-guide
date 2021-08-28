@@ -48,7 +48,13 @@ As you can see, these two resumes are written with the same content of the same 
 
 Many solid resume templates are available online from a variety of sources, like this [list of GitHub repositories containing free LaTeX-based resume templates](https://github.com/topics/resume-template?l=tex) for you to edit your information into. As a side note, LaTeX is a great way to build your own resume templates or make edits to templates like these. Often, it is difficult to achieve the same level of customization and professional formatting in common document editors like Microsoft Word which makes LaTeX very useful for resume building.
 
-If you want to test if your resume is able to be parsed correctly, we recommend using the [Affinda Resume Parser](https://affinda.com/resume-parser/), a public resume parsing service using AI to parse and extract resume data. After sending in your resume, Affinda will allow you to download a JSON, XML, or Excel summary of your parsed resume containing the data that was able to be extracted. If you notice that your information is missing or incorrect, this may mean you need to reformat your resume and test it again. However, the parser is not perfect, and you don’t need to worry about having all of your information 100% correctly parsed. As long as most of your personal information, education, and experience is correct then you should be fine.
+If you want to test if your resume is able to be parsed correctly, we recommend sending your resume through resume parsers that are free to use online. Some examples we recommend are:
+
+1. [Jafer's Lever Resume Parser](https://itsjafer.com/#/parser)
+2. [Affinda Resume Parser](https://affinda.com/resume-parser/)
+3. [Lever Resume Parser (Chrome Extension)](https://chrome.google.com/webstore/detail/lever-resume-parser/cjaebcdmenhepnpldppdeefjgbbpjjbc)
+
+**Note**: It is not expected that the parser will correctly parse 100% of your resume, but it is important to make sure the parser is able to find important fields like your work experience, education (and graduation date), and skills. If you notice that your information is missing or incorrect, this may mean you need to reformat your resume and test it again. We also recommend running your resume through multiple parsers to see how each extract your resume information.
 
 
 ## Other Resume Tips
