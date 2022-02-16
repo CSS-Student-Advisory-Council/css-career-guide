@@ -35,4 +35,4 @@ git commit && git push origin -u <branch-name>
 Once you have opened this Pull Request, a member of the CSS SAC team will review your submission and will either directly merge it into the `main` branch or will leave a comment asking for changes or clarifications prior to the merge. 
 
 ## Thank you!
-Thank you for reading these guidelines and helping to improve the CSS Career Guide! We highly appreciate your contributions that will improve the career knowledge and resources for many future generations of CSS Students. ♣
+Thank you for reading these guidelines and helping to improve the CSS Career Guide! We highly appreciate your contributions that will improve the career knowledge and resources for many future generations of CSS Students.
