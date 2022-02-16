@@ -4,20 +4,7 @@
 The CSS Career Guide follows a typical Git Workflow to manage public contributions and get them merged into the main guide website. Please read this entire document before submitting work to the guide in this repository.
 
 ## Suggesting Changes / Additions
-To suggest new content or changes (such as a new guide section or fixing outdated info) please open a [Github Issue](https://github.com/CSS-Student-Advisory-Council/css-career-guide/issues) within the repository. In this issue, please set a descriptive title and fill in the following issue template: 
-```
-**What is the addition/change you are proposing?**
-
-
-**Which section(s) of the guide will this addition/change affect?**
-
-
-**(If non-trivial addition or change) Why should the addition/change be added into the guide?**
-
-
-**Issue-Related Info (Resources, References, Additional Notes)**
-
-```
+To suggest new content or changes (such as a new guide section or fixing outdated info) please open a [Github Issue](https://github.com/CSS-Student-Advisory-Council/css-career-guide/issues) within the repository. Please use the **Issue Base Template** and click "Get Started". Finally, please add in a descriptive title and fill in the issue sections before submitting it. 
 
 For a larger issue such as suggesting a whole new section, this may need to be approved by CSS SAC members before it will be merged into the main guide. However, you may begin work on it if you wish once the issue is created.
 
@@ -48,4 +35,4 @@ git commit && git push origin -u <branch-name>
 Once you have opened this Pull Request, a member of the CSS SAC team will review your submission and will either directly merge it into the `main` branch or will leave a comment asking for changes or clarifications prior to the merge. 
 
 ## Thank you!
-Thank you for reading these guidelines and helping to improve the CSS Career Guide! We highly appreciate your contributions that will improve the career knowledge and resources for many future generations of CSS Students. 
+Thank you for reading these guidelines and helping to improve the CSS Career Guide! We highly appreciate your contributions that will improve the career knowledge and resources for many future generations of CSS Students. ♣
