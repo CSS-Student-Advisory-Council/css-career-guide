@@ -1,40 +1,51 @@
 # CSS Career Guide Contribution Guidelines
 
-This document outlines the guidelines for making contributions to the CSS Career Guide. Please read this document before making any changes to the main guide document or other associated project artifacts.
+## Introduction
+The CSS Career Guide follows a typical Git Workflow to manage public contributions and get them merged into the main guide website. Please read this entire document before submitting work to the guide in this repository.
+
+## Suggesting Changes / Additions
+To suggest new content or changes (such as a new guide section or fixing outdated info) please open a [Github Issue](https://github.com/CSS-Student-Advisory-Council/css-career-guide/issues) within the repository. In this issue, please set a descriptive title and fill in the following issue template: 
+```
+**What is the addition/change you are proposing?**
 
 
-## Project Team Communication
-
-Communication amongst project team members will be in the CSS SAC discord in the #css-faq channel. If you need to collaborate with someone else in the team or need to discuss something else related to the project, please send a text message in the channel.
+**Which section(s) of the guide will this addition/change affect?**
 
 
-## Task Organization
-
-Our primary tasks to further develop the guide will be held in our project [Trello Board](https://trello.com/invite/b/KeV6QV6C/25dd7f5146a471b3a78dcaf4410d4655/css-career-guide). Please view this board to see tasks needing to be completed.
+**(If non-trivial addition or change) Why should the addition/change be added into the guide?**
 
 
-## Suggesting New Content or Changes
+**Issue-Related Info (Resources, References, Additional Notes)**
 
-To suggest new content, tasks, or other changes, please add a new Trello card with the project task into the “Backlog” section of the Trello board. Please also add relevant labels, descriptions, checklists, or other information pertinent to the task if needed.
+```
 
+For a larger issue such as suggesting a whole new section, this may need to be approved by CSS SAC members before it will be merged into the main guide. However, you may begin work on it if you wish once the issue is created.
 
-## Propose Tasks for Current Iteration
+## Contribution Workflow
+Once you have created an issue, you can now begin to make changes locally. Please follow this Git workflow to ensure your changes are reviewed and merged properly:
+1. Clone this repository
+```Shell
+git clone https://github.com/CSS-Student-Advisory-Council/css-career-guide.git
+```
+2. Create a new local branch using the following convention:
+```Shell
+<author>_<branch-type>_<issue-id>_<branch-name>
+```
+Where `author` is your GitHub username, `branch-type` is a short descriptor of the change you are doing (such as `feature`, `bugfix`, etc), `issue-id` is the associated GitHub Issue ID number for this change, and `branch-name` is short title for the changes being done.
+<br>
+<br>
+For example, a viable branch name would be:
+```
+kosamson_feature_42_add-dynamic-programming-resources
+```
+3. Complete your changes on this local branch
+4. **Commit** and **Push** your new branch to this repository
+```Shell
+git commit && git push origin -u <branch-name>
+```
+5. Open a **Pull Request** to the `main` branch from your repository
 
-If you believe the group should prioritize a certain task for the current work iteration on the project, you may move the task from the “Backlog” section to the “To Do” section. However, please do not add too many tasks into the “To Do” section if not immediately important to the guide.
+Once you have opened this Pull Request, a member of the CSS SAC team will review your submission and will either directly merge it into the `main` branch or will leave a comment asking for changes or clarifications prior to the merge. 
 
-
-## Beginning Work on a Project Task
-
-If you want to work on one of the tasks defined in the Trello Board, please assign yourself to the card if no one else is working on it. However, for larger or more complex tasks, we may need more than one member on them. If this is the case, reach out to the current member assigned to the task if they need help before assigning yourself. Once you are assigned, you are free to begin working on the main guide content.
-
-The main tasks needed to be done currently will be in the “To Do” and “In Progress” columns. If you choose to work on a task in the “To-Do” task column, please move it to the “In-Progress” column after you assign yourself. 
-
-
-## Reviewing Contributions
-
-If you are working on a task in the “In Progress” column and have completed the first draft of your work, please move it to the “Under Review” column so that other members can begin reviewing the work and suggesting edits. Similarly, if you see cards in the column already, feel free to begin looking over the new content and making suggestions. However, please do not immediately make changes, but rather leave a Google Docs comment and communicate with the original author so they can review it and approve or contest the change.
-
-
-## Finalizing Contributions
-
-Once a task has been completed, please move it to the “Done” section to denote it has been reviewed and edited.
+## Thank you!
+Thank you for reading these guidelines and helping to improve the CSS Career Guide! We highly appreciate your contributions that will improve the career knowledge and resources for many future generations of CSS Students. 
