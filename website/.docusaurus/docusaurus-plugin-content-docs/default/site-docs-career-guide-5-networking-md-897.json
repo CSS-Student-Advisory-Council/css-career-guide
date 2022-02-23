@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Career Guide/Networking",
+  "id": "Career Guide/Networking",
+  "title": "Networking",
+  "description": "LinkedIn",
+  "source": "@site/docs/Career Guide/5-Networking.md",
+  "sourceDirName": "Career Guide",
+  "slug": "/Career Guide/Networking",
+  "permalink": "/css-career-guide/docs/Career Guide/Networking",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/5-Networking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About Companies",
+    "permalink": "/css-career-guide/docs/Career Guide/About_Companies"
+  },
+  "next": {
+    "title": "The Behavioral Interview",
+    "permalink": "/css-career-guide/docs/Career Guide/The_Behavioral_Interview"
+  }
+}

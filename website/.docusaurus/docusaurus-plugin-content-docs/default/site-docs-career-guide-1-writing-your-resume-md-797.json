@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Career Guide/Writing_Your_Resume",
+  "id": "Career Guide/Writing_Your_Resume",
+  "title": "Writing Your Resume",
+  "description": "The most important document needed to begin applying for internships/jobs is your resume. You may have already made one before or this could be your first experience making one. In this section, we’ll be referring you to a very solid resource on how to build your resume including various tips to bolster your experiences to include them in your resume.",
+  "source": "@site/docs/Career Guide/1-Writing_Your_Resume.md",
+  "sourceDirName": "Career Guide",
+  "slug": "/Career Guide/Writing_Your_Resume",
+  "permalink": "/css-career-guide/docs/Career Guide/Writing_Your_Resume",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/1-Writing_Your_Resume.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview: The Career Hunt",
+    "permalink": "/css-career-guide/docs/Career Guide/Overview"
+  },
+  "next": {
+    "title": "When to Apply",
+    "permalink": "/css-career-guide/docs/Career Guide/When_To_Apply"
+  }
+}

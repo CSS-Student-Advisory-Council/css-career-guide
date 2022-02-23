@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Appendix/A-Resource_List",
+  "id": "Appendix/A-Resource_List",
+  "title": "Appendix A: Resource List",
+  "description": "Within this appendix section, you will find a list of career resources to help you across all stages of the career hunting process.",
+  "source": "@site/docs/Appendix/A-Resource_List.md",
+  "sourceDirName": "Appendix",
+  "slug": "/Appendix/A-Resource_List",
+  "permalink": "/css-career-guide/docs/Appendix/A-Resource_List",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Appendix/A-Resource_List.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Offer",
+    "permalink": "/css-career-guide/docs/Career Guide/The_Offer"
+  },
+  "next": {
+    "title": "Appendix B: Career Paths",
+    "permalink": "/css-career-guide/docs/Appendix/B-Career_Paths"
+  }
+}

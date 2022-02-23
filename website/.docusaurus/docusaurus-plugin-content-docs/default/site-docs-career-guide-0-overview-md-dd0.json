@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Career Guide/Overview",
+  "id": "Career Guide/Overview",
+  "title": "Overview: The Career Hunt",
+  "description": "Now to the core part of this guide: What are the major stages of career hunting, and what can I expect in each stage? Within this section, we will overview each major stage of applying to a company chronologically from sending in your application to accepting the final offer. Each subsection will include the necessary preparation and action items for each stage. In the sections following this overview, we will dive deeper into each stage of the process to give specific advice and resources to best prepare you for success.",
+  "source": "@site/docs/Career Guide/0-Overview.md",
+  "sourceDirName": "Career Guide",
+  "slug": "/Career Guide/Overview",
+  "permalink": "/css-career-guide/docs/Career Guide/Overview",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/0-Overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Common Misconceptions",
+    "permalink": "/css-career-guide/docs/Common_Misconceptions"
+  },
+  "next": {
+    "title": "Writing Your Resume",
+    "permalink": "/css-career-guide/docs/Career Guide/Writing_Your_Resume"
+  }
+}

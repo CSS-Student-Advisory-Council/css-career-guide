@@ -1,0 +1,593 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/mnt/c/Users/vinni/repos/css-career-guide/website/sidebars.js",
+          "contentPath": "/mnt/c/Users/vinni/repos/css-career-guide/website/docs",
+          "contentPathLocalized": "/mnt/c/Users/vinni/repos/css-career-guide/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "Appendix/A-Resource_List",
+              "id": "Appendix/A-Resource_List",
+              "title": "Appendix A: Resource List",
+              "description": "Within this appendix section, you will find a list of career resources to help you across all stages of the career hunting process.",
+              "source": "@site/docs/Appendix/A-Resource_List.md",
+              "sourceDirName": "Appendix",
+              "slug": "/Appendix/A-Resource_List",
+              "permalink": "/docs/Appendix/A-Resource_List",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Appendix/A-Resource_List.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Offer",
+                "permalink": "/docs/Career Guide/The_Offer"
+              },
+              "next": {
+                "title": "Appendix B: Career Paths",
+                "permalink": "/docs/Appendix/B-Career_Paths"
+              }
+            },
+            {
+              "unversionedId": "Appendix/B-Career_Paths",
+              "id": "Appendix/B-Career_Paths",
+              "title": "Appendix B: Career Paths",
+              "description": "Career Paths",
+              "source": "@site/docs/Appendix/B-Career_Paths.md",
+              "sourceDirName": "Appendix",
+              "slug": "/Appendix/B-Career_Paths",
+              "permalink": "/docs/Appendix/B-Career_Paths",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Appendix/B-Career_Paths.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Appendix A: Resource List",
+                "permalink": "/docs/Appendix/A-Resource_List"
+              },
+              "next": {
+                "title": "Appendix C: Coursework",
+                "permalink": "/docs/Appendix/C-Coursework"
+              }
+            },
+            {
+              "unversionedId": "Appendix/C-Coursework",
+              "id": "Appendix/C-Coursework",
+              "title": "Appendix C: Coursework",
+              "description": "Continued: Our Outdated / Flawed Curriculum",
+              "source": "@site/docs/Appendix/C-Coursework.md",
+              "sourceDirName": "Appendix",
+              "slug": "/Appendix/C-Coursework",
+              "permalink": "/docs/Appendix/C-Coursework",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Appendix/C-Coursework.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Appendix B: Career Paths",
+                "permalink": "/docs/Appendix/B-Career_Paths"
+              },
+              "next": {
+                "title": "Appendix D: Other Tips",
+                "permalink": "/docs/Appendix/D-Other_Tips"
+              }
+            },
+            {
+              "unversionedId": "Appendix/D-Other_Tips",
+              "id": "Appendix/D-Other_Tips",
+              "title": "Appendix D: Other Tips",
+              "description": "Using an Application Tracking Spreadsheet",
+              "source": "@site/docs/Appendix/D-Other_Tips.md",
+              "sourceDirName": "Appendix",
+              "slug": "/Appendix/D-Other_Tips",
+              "permalink": "/docs/Appendix/D-Other_Tips",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Appendix/D-Other_Tips.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Appendix C: Coursework",
+                "permalink": "/docs/Appendix/C-Coursework"
+              },
+              "next": {
+                "title": "Appendix E: Contributors",
+                "permalink": "/docs/Appendix/E-Contributors"
+              }
+            },
+            {
+              "unversionedId": "Appendix/E-Contributors",
+              "id": "Appendix/E-Contributors",
+              "title": "Appendix E: Contributors",
+              "description": "Related Organizations",
+              "source": "@site/docs/Appendix/E-Contributors.md",
+              "sourceDirName": "Appendix",
+              "slug": "/Appendix/E-Contributors",
+              "permalink": "/docs/Appendix/E-Contributors",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Appendix/E-Contributors.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Appendix D: Other Tips",
+                "permalink": "/docs/Appendix/D-Other_Tips"
+              }
+            },
+            {
+              "unversionedId": "Career Guide/About_Companies",
+              "id": "Career Guide/About_Companies",
+              "title": "About Companies",
+              "description": "Out of the many companies offering jobs and internships, computer science students often talk about applying to “FAANG”, the “Big N”, “Unicorns”, Startups, and other seemingly esoteric types of companies. In this section, we will cover what all of these terms mean and discuss other major classifications of companies and what makes them different in their recruiting process. Also, we will discuss important factors to consider when evaluating a company on whether or not you should work for them.",
+              "source": "@site/docs/Career Guide/4-About_Companies.md",
+              "sourceDirName": "Career Guide",
+              "slug": "/Career Guide/About_Companies",
+              "permalink": "/docs/Career Guide/About_Companies",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/4-About_Companies.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Where to Apply",
+                "permalink": "/docs/Career Guide/Where_To_Apply"
+              },
+              "next": {
+                "title": "Networking",
+                "permalink": "/docs/Career Guide/Networking"
+              }
+            },
+            {
+              "unversionedId": "Career Guide/Networking",
+              "id": "Career Guide/Networking",
+              "title": "Networking",
+              "description": "LinkedIn",
+              "source": "@site/docs/Career Guide/5-Networking.md",
+              "sourceDirName": "Career Guide",
+              "slug": "/Career Guide/Networking",
+              "permalink": "/docs/Career Guide/Networking",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/5-Networking.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "About Companies",
+                "permalink": "/docs/Career Guide/About_Companies"
+              },
+              "next": {
+                "title": "The Behavioral Interview",
+                "permalink": "/docs/Career Guide/The_Behavioral_Interview"
+              }
+            },
+            {
+              "unversionedId": "Career Guide/Overview",
+              "id": "Career Guide/Overview",
+              "title": "Overview: The Career Hunt",
+              "description": "Now to the core part of this guide: What are the major stages of career hunting, and what can I expect in each stage? Within this section, we will overview each major stage of applying to a company chronologically from sending in your application to accepting the final offer. Each subsection will include the necessary preparation and action items for each stage. In the sections following this overview, we will dive deeper into each stage of the process to give specific advice and resources to best prepare you for success.",
+              "source": "@site/docs/Career Guide/0-Overview.md",
+              "sourceDirName": "Career Guide",
+              "slug": "/Career Guide/Overview",
+              "permalink": "/docs/Career Guide/Overview",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/0-Overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Common Misconceptions",
+                "permalink": "/docs/Common_Misconceptions"
+              },
+              "next": {
+                "title": "Writing Your Resume",
+                "permalink": "/docs/Career Guide/Writing_Your_Resume"
+              }
+            },
+            {
+              "unversionedId": "Career Guide/The_Behavioral_Interview",
+              "id": "Career Guide/The_Behavioral_Interview",
+              "title": "The Behavioral Interview",
+              "description": "Know the Company",
+              "source": "@site/docs/Career Guide/6-The_Behavioral_Interview.md",
+              "sourceDirName": "Career Guide",
+              "slug": "/Career Guide/The_Behavioral_Interview",
+              "permalink": "/docs/Career Guide/The_Behavioral_Interview",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/6-The_Behavioral_Interview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Networking",
+                "permalink": "/docs/Career Guide/Networking"
+              },
+              "next": {
+                "title": "The OA & Technical Interview",
+                "permalink": "/docs/Career Guide/The_OA_and_Technical_Interview"
+              }
+            },
+            {
+              "unversionedId": "Career Guide/The_OA_and_Technical_Interview",
+              "id": "Career Guide/The_OA_and_Technical_Interview",
+              "title": "The OA & Technical Interview",
+              "description": "Disparity of Difficulty (The Luck Factor)",
+              "source": "@site/docs/Career Guide/7-The_OA_and_Technical_Interview.md",
+              "sourceDirName": "Career Guide",
+              "slug": "/Career Guide/The_OA_and_Technical_Interview",
+              "permalink": "/docs/Career Guide/The_OA_and_Technical_Interview",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/7-The_OA_and_Technical_Interview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Behavioral Interview",
+                "permalink": "/docs/Career Guide/The_Behavioral_Interview"
+              },
+              "next": {
+                "title": "The Offer",
+                "permalink": "/docs/Career Guide/The_Offer"
+              }
+            },
+            {
+              "unversionedId": "Career Guide/The_Offer",
+              "id": "Career Guide/The_Offer",
+              "title": "The Offer",
+              "description": "READ THE CONTRACT",
+              "source": "@site/docs/Career Guide/8-The_Offer.md",
+              "sourceDirName": "Career Guide",
+              "slug": "/Career Guide/The_Offer",
+              "permalink": "/docs/Career Guide/The_Offer",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/8-The_Offer.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The OA & Technical Interview",
+                "permalink": "/docs/Career Guide/The_OA_and_Technical_Interview"
+              },
+              "next": {
+                "title": "Appendix A: Resource List",
+                "permalink": "/docs/Appendix/A-Resource_List"
+              }
+            },
+            {
+              "unversionedId": "Career Guide/When_To_Apply",
+              "id": "Career Guide/When_To_Apply",
+              "title": "When to Apply",
+              "description": "CSS Students are often confused about the best time to start applying for internships and jobs, and this causes them to miss out on many opportunities. In this section, we will answer this question, provide information on application timelines / cycles, and address common roadblocks CSS students face when starting to apply.",
+              "source": "@site/docs/Career Guide/2-When_To_Apply.md",
+              "sourceDirName": "Career Guide",
+              "slug": "/Career Guide/When_To_Apply",
+              "permalink": "/docs/Career Guide/When_To_Apply",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/2-When_To_Apply.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Writing Your Resume",
+                "permalink": "/docs/Career Guide/Writing_Your_Resume"
+              },
+              "next": {
+                "title": "Where to Apply",
+                "permalink": "/docs/Career Guide/Where_To_Apply"
+              }
+            },
+            {
+              "unversionedId": "Career Guide/Where_To_Apply",
+              "id": "Career Guide/Where_To_Apply",
+              "title": "Where to Apply",
+              "description": "Once you have your resume ready to go, it’s time to start actively sending out your applications to companies to start your career hunting process. In this section, we’ll go over the various places that internship and job postings are available for software roles.",
+              "source": "@site/docs/Career Guide/3-Where_To_Apply.md",
+              "sourceDirName": "Career Guide",
+              "slug": "/Career Guide/Where_To_Apply",
+              "permalink": "/docs/Career Guide/Where_To_Apply",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/3-Where_To_Apply.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "When to Apply",
+                "permalink": "/docs/Career Guide/When_To_Apply"
+              },
+              "next": {
+                "title": "About Companies",
+                "permalink": "/docs/Career Guide/About_Companies"
+              }
+            },
+            {
+              "unversionedId": "Career Guide/Writing_Your_Resume",
+              "id": "Career Guide/Writing_Your_Resume",
+              "title": "Writing Your Resume",
+              "description": "The most important document needed to begin applying for internships/jobs is your resume. You may have already made one before or this could be your first experience making one. In this section, we’ll be referring you to a very solid resource on how to build your resume including various tips to bolster your experiences to include them in your resume.",
+              "source": "@site/docs/Career Guide/1-Writing_Your_Resume.md",
+              "sourceDirName": "Career Guide",
+              "slug": "/Career Guide/Writing_Your_Resume",
+              "permalink": "/docs/Career Guide/Writing_Your_Resume",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/1-Writing_Your_Resume.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview: The Career Hunt",
+                "permalink": "/docs/Career Guide/Overview"
+              },
+              "next": {
+                "title": "When to Apply",
+                "permalink": "/docs/Career Guide/When_To_Apply"
+              }
+            },
+            {
+              "unversionedId": "Common_Misconceptions",
+              "id": "Common_Misconceptions",
+              "title": "Common Misconceptions",
+              "description": "Misconception #1: CSSE is the Same as CSE",
+              "source": "@site/docs/1-Common_Misconceptions.md",
+              "sourceDirName": ".",
+              "slug": "/Common_Misconceptions",
+              "permalink": "/docs/Common_Misconceptions",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1-Common_Misconceptions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/Introduction"
+              },
+              "next": {
+                "title": "Overview: The Career Hunt",
+                "permalink": "/docs/Career Guide/Overview"
+              }
+            },
+            {
+              "unversionedId": "Introduction",
+              "id": "Introduction",
+              "title": "Introduction",
+              "description": "What is this guide for?",
+              "source": "@site/docs/0-Introduction.md",
+              "sourceDirName": ".",
+              "slug": "/Introduction",
+              "permalink": "/docs/Introduction",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/0-Introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Common Misconceptions",
+                "permalink": "/docs/Common_Misconceptions"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "Introduction"
+              },
+              {
+                "type": "doc",
+                "id": "Common_Misconceptions"
+              },
+              {
+                "type": "category",
+                "label": "Career Guide",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Career Guide/Overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Career Guide/Writing_Your_Resume"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Career Guide/When_To_Apply"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Career Guide/Where_To_Apply"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Career Guide/About_Companies"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Career Guide/Networking"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Career Guide/The_Behavioral_Interview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Career Guide/The_OA_and_Technical_Interview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Career Guide/The_Offer"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Appendix",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Appendix/A-Resource_List"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Appendix/B-Career_Paths"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Appendix/C-Coursework"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Appendix/D-Other_Tips"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Appendix/E-Contributors"
+                  }
+                ]
+              }
+            ]
+          },
+          "mainDocId": "Introduction",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-02-17-first-blog-post.md",
+            "source": "@site/blog/2022-02-17-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Testing blog posts",
+            "date": "2022-02-17T00:00:00.000Z",
+            "formattedDate": "February 17, 2022",
+            "tags": [
+              {
+                "label": "first post",
+                "permalink": "/blog/tags/first-post"
+              },
+              {
+                "label": "testing",
+                "permalink": "/blog/tags/testing"
+              }
+            ],
+            "readingTime": 0.015,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Jay Q.",
+                "title": "CSS SAC, Lead"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Jay Q.",
+                "title": "CSS SAC, Lead"
+              },
+              "tags": [
+                "first post",
+                "testing"
+              ]
+            }
+          },
+          "content": "Testing blog posts"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "first-blog-post"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/first-post": {
+          "name": "first post",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/first-post"
+        },
+        "/blog/tags/testing": {
+          "name": "testing",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/testing"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

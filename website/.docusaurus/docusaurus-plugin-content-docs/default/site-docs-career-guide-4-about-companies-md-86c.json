@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Career Guide/About_Companies",
+  "id": "Career Guide/About_Companies",
+  "title": "About Companies",
+  "description": "Out of the many companies offering jobs and internships, computer science students often talk about applying to “FAANG”, the “Big N”, “Unicorns”, Startups, and other seemingly esoteric types of companies. In this section, we will cover what all of these terms mean and discuss other major classifications of companies and what makes them different in their recruiting process. Also, we will discuss important factors to consider when evaluating a company on whether or not you should work for them.",
+  "source": "@site/docs/Career Guide/4-About_Companies.md",
+  "sourceDirName": "Career Guide",
+  "slug": "/Career Guide/About_Companies",
+  "permalink": "/css-career-guide/docs/Career Guide/About_Companies",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career Guide/4-About_Companies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Where to Apply",
+    "permalink": "/css-career-guide/docs/Career Guide/Where_To_Apply"
+  },
+  "next": {
+    "title": "Networking",
+    "permalink": "/css-career-guide/docs/Career Guide/Networking"
+  }
+}

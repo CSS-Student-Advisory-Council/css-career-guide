@@ -9,12 +9,14 @@ const config = {
   title: 'CSS Career Guide',
   tagline: 'Open to contributions',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/css-career-guide/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'CSS SAC', // Usually your GitHub org/user name.
-  projectName: 'CSS Career Guide', // Usually your repo name.
+  organizationName: 'CSS-Student-Advisory-Council', // Usually your GitHub org/user name.
+  projectName: 'css-career-guide', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   presets: [
     [

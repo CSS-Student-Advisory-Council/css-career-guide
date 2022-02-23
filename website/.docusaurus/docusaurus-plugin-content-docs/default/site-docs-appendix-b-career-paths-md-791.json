@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Appendix/B-Career_Paths",
+  "id": "Appendix/B-Career_Paths",
+  "title": "Appendix B: Career Paths",
+  "description": "Career Paths",
+  "source": "@site/docs/Appendix/B-Career_Paths.md",
+  "sourceDirName": "Appendix",
+  "slug": "/Appendix/B-Career_Paths",
+  "permalink": "/css-career-guide/docs/Appendix/B-Career_Paths",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Appendix/B-Career_Paths.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Appendix A: Resource List",
+    "permalink": "/css-career-guide/docs/Appendix/A-Resource_List"
+  },
+  "next": {
+    "title": "Appendix C: Coursework",
+    "permalink": "/css-career-guide/docs/Appendix/C-Coursework"
+  }
+}
