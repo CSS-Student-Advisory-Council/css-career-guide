@@ -25,7 +25,7 @@ For example, a viable branch name would be:
 ```
 kosamson_feature_42_add-dynamic-programming-resources
 ```
-3. Complete your changes on this local branch
+3. Complete your changes on the local branch
 4. **Commit** and **Push** your new branch to this repository
 ```Shell
 git commit && git push origin -u <branch-name>
