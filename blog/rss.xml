@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CSS Career Guide Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>CSS Career Guide Blog</description>
+        <lastBuildDate>Thu, 17 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/first-blog-post</link>
+            <guid>first-blog-post</guid>
+            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Testing blog posts]]></description>
+            <content:encoded><![CDATA[<p>Testing blog posts</p>]]></content:encoded>
+            <category>first post</category>
+            <category>testing</category>
+        </item>
+    </channel>
+</rss>
