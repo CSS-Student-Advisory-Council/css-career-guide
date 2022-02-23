@@ -39,11 +39,10 @@ The general date ranges of when you can apply for each internship season are as 
      
 
 
-As you can see, these date ranges are very wide and overlap with each other due to the varied nature of how different companies handle their application process. This will be explained more within the Company Timelines **(FIX LINK TO SUBSECTION) **subsection and how the type of company impacts when you can apply and work for them.
+As you can see, these date ranges are very wide and overlap with each other due to the varied nature of how different companies handle their application process. This will be explained more within the [Company Timelines](2-When_To_Apply.md#company-timelines) subsection and how the type of company impacts when you can apply and work for them.
 
 After you have gotten an internship offer, the general date ranges of when you will work per season is as follows:
 
- \
 Working Date Ranges
 
 
