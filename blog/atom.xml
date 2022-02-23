@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://your-docusaurus-test-site.com/css-career-guide/blog</id>
     <title>CSS Career Guide Blog</title>
     <updated>2022-02-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/css-career-guide/blog"/>
     <subtitle>CSS Career Guide Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-test-site.com/css-career-guide/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
         <id>first-blog-post</id>
-        <link href="https://your-docusaurus-test-site.com/blog/first-blog-post"/>
+        <link href="https://your-docusaurus-test-site.com/css-career-guide/blog/first-blog-post"/>
         <updated>2022-02-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Testing blog posts]]></summary>
         <content type="html"><![CDATA[<p>Testing blog posts</p>]]></content>

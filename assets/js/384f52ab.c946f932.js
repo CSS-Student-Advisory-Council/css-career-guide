@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[458],{9704:function(s){s.exports=JSON.parse('{"allTagsPath":"/css-career-guide/blog/tags","slug":"/css-career-guide/blog/tags/first-post","name":"first post","count":1,"permalink":"/css-career-guide/blog/tags/first-post"}')}}]);
