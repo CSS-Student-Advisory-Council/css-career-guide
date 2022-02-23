@@ -6,16 +6,13 @@
 
 ## Useful CSS Courses
 
-**### FIX ALL CAREER PATH LINKS ###**
-
-
 ### CSS 390 Special Topics - Scripting Languages (Bernstein)
 
 [Course Site](https://courses.washington.edu/css390/scripting/current/)
 
 **Topics Covered:** Bash, Sed, Awk, Perl, Python
 
-**Related Career Paths:** SWE, SRE/DevOps
+**Related Career Paths:** [SWE](B-Career_Paths#software-engineer-swe--software-development-engineer-sde), [SRE/DevOps](B-Career_Paths#site-reliability-engineer-sre--devops)
 
 **Difficulty:** Moderate
 
@@ -26,7 +23,7 @@ Scripting Languages is a course offered under CSS 390 Special Topics by Professo
 
 **Topics Covered:** HTTP, Networking (Intro), Service-Oriented Architecture (SOA) / Microservices, SOAP, REST, APIs, AWS, Azure, Cloud Web Apps, Cloud Storage (Object, Block, File), NoSQL, Virtualization & Containers, Cloud Architecture, Cloud Security (Intro)  
 
-**Related Career Paths:** SWE, SRE/DevOps
+**Related Career Paths:** [SWE](B-Career_Paths#software-engineer-swe--software-development-engineer-sde), [SRE/DevOps](B-Career_Paths#site-reliability-engineer-sre--devops)
 
 **Difficulty:** Moderate - Hard
 
@@ -37,7 +34,7 @@ Cloud Computing is a course currently taught by Professor Robert Dimpsey (offere
 
 **Topics Covered:** Service-Oriented Architecture (SOA) / Microservices, APIs, NoSQL, Kafka, Publish-Subscribe Model, Horizontal Partitioning, Vertical Partitioning
 
-**Related Career Paths:** SWE, SRE/DevOps
+**Related Career Paths:** [SWE](B-Career_Paths#software-engineer-swe--software-development-engineer-sde), [SRE/DevOps](B-Career_Paths#site-reliability-engineer-sre--devops)
 
 **Difficulty:** Hard
 
@@ -48,7 +45,7 @@ The Distributed/Scalable Systems Design offering of CSS490 is taught by Professo
 
 **Topics Covered:** SQL, Relational Algebra, Data Modelling
 
-**Related Career Paths:** SWE
+**Related Career Paths:** [SWE](B-Career_Paths#software-engineer-swe--software-development-engineer-sde)
 
 **Difficulty:** Easy-Moderate
 
