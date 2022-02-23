@@ -42,7 +42,7 @@ However, this does not mean that performing well in classes is something to comp
 
 It is also important to consider the value of the skills and knowledge gained from specific CSS courses. Specific to the CSSE degree is the infamous CSS 350/360/370 sequence, which many students describe as being large time consumers while providing minimal valuable information for software engineering. For classes like these, it is the best use of your time to simply put enough effort to get a decent grade while focusing your time on more career preparation activities.
 
-In contrast, there are some courses in the CSS program that are worth putting in extra time to learn the content, as they cover useful skills and concepts for interviews and/or specific career paths. Examples of these classes include CSS 342 and CSS 343 which teach data structures and algorithms -- the core of technical interviews. Or, elective courses like CSS 436: Cloud Computing, which covers many modern technologies and allows you to practice these skills in substantial course projects. More of these useful courses can be found in Appendix C **(FIX LINK)**.
+In contrast, there are some courses in the CSS program that are worth putting in extra time to learn the content, as they cover useful skills and concepts for interviews and/or specific career paths. Examples of these classes include CSS 342 and CSS 343 which teach data structures and algorithms -- the core of technical interviews. Or, elective courses like CSS 436: Cloud Computing, which covers many modern technologies and allows you to practice these skills in substantial course projects. More of these useful courses can be found in [Appendix C](Appendix/C-Coursework.md).
 
 
 ## Misconception #3: Internships/Jobs are Easy to Obtain
@@ -61,7 +61,7 @@ For your first internship/job, it is critical to send out as many applications a
 
 The technical interview is what many applicants consider to be the hardest part of landing a software internship/job. In summary, the technical interview is a stage in the overall interview process where a company will test you on your technical skills and knowledge of data structures and algorithms as a way to screen you as an applicant. This stage requires weeks to months of hard preparation -- some compare it to studying for the SAT/ACT to get into college. 
 
-We will cover the technical interview process **(FIX LINK TO SECTION) **in more detail later in this guide, but for now just know that it will be a major part of your preparation and it is okay to struggle in this step. If you want to preview what the technical interview questions are like, you can visit the resources here **(FIX LINK TO APPENDIX A)**.
+We will cover the [technical interview process](Career%20Guide/7-The_OA_and_Technical_Interview.md) in more detail later in this guide, but for now just know that it will be a major part of your preparation and it is okay to struggle in this step. If you want to preview what the technical interview questions are like, you can visit the resources [here](Appendix/A-Resource_List.md).
 
 
 ### Your Class Standing
