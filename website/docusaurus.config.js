@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */  /** This error seems persistent. Similar issue report: https://github.com/facebook/docusaurus/issues/3424  */
 const config = {
   title: 'CSS Career Guide',
-  tagline: 'Open to contributions!',
+  tagline: 'Open to any contributions!',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/css-career-guide/',
   onBrokenLinks: 'log',
