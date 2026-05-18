@@ -35,6 +35,7 @@ Within this appendix section, you will find a list of career resources to help y
 * [Monster](monster.com)
 * [Handshake](https://uw.joinhandshake.com/)
 * [AngelList (Startups)](angel.co)
+* [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Free daily-updated Canadian student/recent-grad job board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 
 ### GitHub Internship / Job Boards (see repositories)
 
