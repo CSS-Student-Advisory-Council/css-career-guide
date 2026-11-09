@@ -14,6 +14,10 @@ Within this appendix section, you will find a list of career resources to help y
 
 * [Kim’s Ultimate Guide to Building Your Resume](https://docs.google.com/document/d/1qElLme18XlZNSLDL9CQCRu2ptW19H6JC9NnVMPHofHw/edit#heading=h.twed1p5s0ddj)
 
+### Resume Tools
+
+* [JobEmerge](https://www.jobemerge.work) - Freemium AI career copilot with a job-fit check, a 19-language resume translator, and a Markdown resume editor. Full reports and full prose translation require one-time Pro access; nothing auto-renews.
+
 ### Resume Templates
 
 * [GitHub - Free LaTeX Resume Templates](https://github.com/topics/resume-template?l=tex)
